@@ -22,6 +22,7 @@ body {
     cursor: pointer;
     transform-origin: center;
     animation: none;
+    border: 2px solid rgb(82, 171, 249);
   }
   
   .profile-pic.hovered {
